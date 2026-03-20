@@ -24,6 +24,7 @@ Attendance records (presence/absence tracking)
 The dataset was designed to simulate real-world HR business scenarios.
 
 📊 Analysis Performed
+
 🔹 Employee Analysis
 
 Total number of employees
