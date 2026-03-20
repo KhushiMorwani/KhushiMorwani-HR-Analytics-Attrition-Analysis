@@ -22,6 +22,7 @@ Attrition information (employee exit status and reasons)
 Attendance records (presence/absence tracking)
 
 The dataset was designed to simulate real-world HR business scenarios.
+
 📊 Analysis Performed
 🔹 Employee Analysis
 
@@ -46,6 +47,8 @@ Employees earning above average salary
 🔹 Attendance Analysis
 
 Employees with highest absence days
+
+
 📊 Key Insights
 
 Certain departments show higher attrition rates
