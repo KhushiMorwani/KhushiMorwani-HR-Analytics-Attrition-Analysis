@@ -37,7 +37,7 @@ The project contains 3 tables:
 ---
 
 ## 📂 Files Included
-- `HR ATTRITION ANALYSIS.sql`
+- [HR ATTRITION ANALYSIS](HR%20ATTRITION%20ANALYSIS.sql)
 
 ---
 
